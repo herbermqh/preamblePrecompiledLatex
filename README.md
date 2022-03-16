@@ -19,4 +19,4 @@
 10. El código de la parte estática podemos comentar, eliminar o simplemente dejarlo tal como está.
 11. La proxima compilación del documento LaTeX es tres veces más rápido.
 
-*Fuente de tutorial: *https://web.archive.org/web/20160712215709/http://www.howtotex.com:80/tips-tricks/faster-latex-part-iv-use-a-precompiled-preamble/
+*Fuente de tutorial: * https://web.archive.org/web/20160712215709/http://www.howtotex.com:80/tips-tricks/faster-latex-part-iv-use-a-precompiled-preamble/
