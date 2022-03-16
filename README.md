@@ -1,4 +1,4 @@
-# Seguir los siguientes pasos para precompilar precompilar 
+# Seguir los siguientes pasos para precompilar LaTeX
 1. Nuestro documento LaTeX será de la siguiente forma:
 ``% static part
 ...
